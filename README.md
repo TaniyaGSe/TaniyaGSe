@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Taniya Senarathna
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning at University of Moratuwa, Sri Lanka
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👩‍ I’m an IT undergraduate in University of Moratuwa, Sri Lanka
+
 
 <!---
 TaniyaGSe/TaniyaGSe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
